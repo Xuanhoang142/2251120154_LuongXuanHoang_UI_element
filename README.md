@@ -1,3 +1,11 @@
-# button_ui
+# UI Components List
 
-A new Flutter project.
+An app to display most common mobile app components, include:
+- Text
+- Button
+- Image
+- Text Field
+- Password Field
+- Column
+- Row
+
